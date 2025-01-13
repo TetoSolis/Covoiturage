@@ -1,20 +1,26 @@
 # 🚗💨 Projet de Covoiturage Nord Franche-Comté
 
 Bienvenue dans le projet **Covoiturage Nord Franche-Comté** ! 🌍🚘 Ce projet vise à faciliter le partage de trajets entre conducteurs et passagers dans la région, en proposant une plateforme simple et efficace.
+
 ---
 ## ✨ Fonctionnalités
+
 ✅ **Inscription et authentification des utilisateurs** 🆔🔒  
 ✅ **Publication de trajets** 🚙📅 (Les conducteurs peuvent proposer leurs trajets)  
 ✅ **Recherche de trajets** 🔍🛣️ (Les passagers peuvent trouver un covoiturage adapté)  
 ✅ **Réservation de places** 🏷️🧑‍🤝‍🧑 (Facilite la gestion des passagers)  
 ✅ **Système de messagerie** ✉️💬 (Communication entre conducteurs et passagers)  
 ✅ **Historique des trajets** 📜⏳ (Consultation des trajets passés et futurs)  
+
 ---
 ## 🛠️ Technologies utilisées
-- **Frontend** 🎨🖥️ : [Préciser les frameworks/bibliothèques utilisés, ex: React, Vue.js]  
-- **Backend** ⚙️🖧 : [Préciser le framework utilisé, ex: Node.js avec Express, Django]  
-- **Base de données** 🗄️ : [Préciser le système de gestion, ex: MongoDB, PostgreSQL]  
-- **Authentification** 🔑 : [Ex: JWT, OAuth]  
+
+Voici un résumé mis à jour de tes technologies :
+
+- **Frontend** 🎨🖥️ : CSS, SCSS
+- **Backend** ⚙️🧰 : PHP
+- **Base de données** 🗄️ : MySQL
+
 ---
 ## 🚀 Installation
 ### 1️⃣ Cloner le dépôt  
